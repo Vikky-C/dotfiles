@@ -1,0 +1,1 @@
+sudo ukify build --microcode=/boot/amd-ucode.img --initrd=/boot/initramfs-linux.img --linux=/boot/vmlinuz-linux --cmdline=@/etc/kernel/cmdline --output=/boot/EFI/Linux/$(date '+%Y%m%d')_uki_desktop.efi

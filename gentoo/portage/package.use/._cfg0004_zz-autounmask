@@ -1,0 +1,6 @@
+# package.use# required by media-gfx/graphviz-12.2.1-r1::gentoo
+# required by media-gfx/imagemagick-7.1.1.38-r2::gentoo[graphviz]
+# required by app-misc/fastfetch-2.42.0::gentoo[imagemagick]
+# required by @selected
+# required by @world (argument)
+>=media-libs/gd-2.3.3-r4 fontconfig

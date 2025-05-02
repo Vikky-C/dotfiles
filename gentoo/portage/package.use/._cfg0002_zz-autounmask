@@ -1,0 +1,9 @@
+# package.use# required by media-sound/jack2-1.9.22::gentoo[opus]
+# required by media-plugins/gst-plugins-jack-1.24.11::gentoo
+# required by media-plugins/gst-plugins-meta-1.24.11::gentoo[jack]
+# required by app-emulation/wine-proton-9.0.4-r2::gentoo[gstreamer]
+# required by virtual/wine-0-r11::gentoo
+# required by app-emulation/winetricks-20250102::gentoo
+# required by app-emulation/protontricks-1.12.1::gentoo
+# required by protontricks (argument)
+>=media-libs/opus-1.5.2 custom-modes

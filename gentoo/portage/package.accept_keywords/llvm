@@ -1,0 +1,5 @@
+#llvm-core/*		-~amd64
+#llvm-runtimes/*		-~amd64
+
+
+llvm-core/libclc -~amd64

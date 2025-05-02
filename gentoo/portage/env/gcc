@@ -1,0 +1,3 @@
+CC="gcc"
+CPP="cpp"
+CXX="g++"

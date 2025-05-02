@@ -1,0 +1,5 @@
+# package.use# required by gui-libs/libadwaita-1.7.2::djs_overlay
+# required by gnome-extra/zenity-4.0.3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/gobject-introspection-1.84.0-r1 doctool

@@ -1,0 +1,22 @@
+gui-wm/hyprland **
+dev-cpp/tomlplusplus **
+dev-libs/glib **
+dev-libs/hyprgraphics **
+dev-libs/re2 **
+dev-libs/udis86 **
+dev-libs/wayland **
+gui-libs/aquamarine **
+gui-libs/hyprcursor **
+gui-libs/hyprutils **
+media-libs/libglvnd **
+gui-libs/hyprland-qtutils **
+dev-libs/hyprland-protocols **
+dev-libs/wayland-protocols **
+dev-util/hyprwayland-scanner **
+dev-util/wayland-scanner **
+gui-libs/xdg-desktop-portal-hyprland **
+
+media-libs/mesa **
+
+
+dev-libs/hyprlang -~amd64
